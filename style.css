@@ -1,0 +1,22 @@
+.container {
+  background-color: turquoise;
+  background-image: url("breakingbad.jpg");
+  background-size: auto;
+  background-color: aqua;
+}
+.search {
+  color: rgb(140, 214, 44);
+}
+/* .card {
+  background-image: url("breakingbad2.jpg");
+  background-repeat: no repeat;
+  background-size: 300px 100px;
+} */
+.card-text {
+  font-weight: bold;
+  color: #11f36f;
+}
+.footer {
+  color: white;
+  padding-top: 170px;
+}
